@@ -4,16 +4,19 @@ Using NLP to create debates strategies, gather fact to win debates.
 * A pay-per-instance service.
     * Instance duration : 12 hrs
 
+
+[TOC]
+
 ## Guiding Principals
 
 
-* Rules
+### Rules
 
     * Given a fix time of 3 hours of debate.
 
     * A winner will be decided at the end of the debate.
 
-* Gather sources
+### Gather sources
     * Create a database of most common data sources refered (news channels, publications, youtubers)
 
         * Create a matrix to map out where they stand on various topics (see topic list)
@@ -28,7 +31,9 @@ Using NLP to create debates strategies, gather fact to win debates.
 
     * Gather sources which are pro your topic
 
-* Like a game of chess
+### Strategy
+    Like a game of chess
+    
     * Define argument types.
         
         * For each type of argument made by the opposition which type of argument are best to refute it.
@@ -43,7 +48,7 @@ Using NLP to create debates strategies, gather fact to win debates.
             * Factual Inaccuracy in the sources provided by opposition can be used to question any of the sources credibility.
 
 
-* Type of topics
+### Topics
 
     * Create a topic list
 
